@@ -1,0 +1,47 @@
+{
+    "Trening menedżerski": {
+        "en": "Manager training",
+        "mandatory": 0
+    },
+    "Wprowadzenie do metod eksploracji danych": {
+        "en": "Introduction to data exploration methods",
+        "mandatory": 0
+    },
+    "Język niemiecki": {
+        "en": "German",
+        "mandatory": 1,
+        "description": "Guten Tag!"
+    },
+    "Rola lidera w organizacji": {
+        "en" : "Role of the leader in the organization",
+        "mandatory": 1
+    },
+    "Filozofia nowożytna": {
+        "en" : "Modern Philosophy",
+        "mandatory": 1
+    },
+    "Modele gospodarcze we współczesnym świecie": {
+        "en" : "Economic models in the modern world",
+        "mandatory": 1
+    },
+    "Zarządzanie innowacjami": {
+        "en" : "Innovations management",
+        "mandatory": 1
+    },
+    "Problem Solving": {
+        "en" : "Problem Solving",
+        "mandatory": 1
+    },
+    "Biznes i negocjacje międzynarodowe": {
+        "en" : "Business and international negotiations",
+        "mandatory": 1
+    },
+    "Metodologia badań naukowych": {
+        "en" : "Methodology of scientific research",
+        "mandatory": 1
+    },
+    "Statystyka matematyczna i język R": {
+        "en" : "Mathematical statistics and language R",
+        "mandatory": 1
+    }
+}
