@@ -4,15 +4,22 @@
 2. `pacman -S geckodriver`
 3. `python app.py youridnumber yourpassword`
 
-# TODO
+# Mandatory TODO
+1) Power BI vizualization
+ - Number of covered lectures and exercises 
+ - Percentage bar by formula `covered_lectures / all_lectures` (same for exercises and total)
+ - Ratio plot between subject / types / rooms
 
-1) Notifications for mandatory classes
+# Additional TODO
+2) Notifications for mandatory classes
  - List of mandatory subjects
  - Exercises, Lecture or Lab
  - Set notification on schedule change in this week
-2) Route to the University from calendar event
-3) Useful information in event desctiption
+3) Route to the University from calendar event
+4) Useful information in event desctiption
  - Useful links per subject 
+
+
 
 # Sync result: 1m 20s (20s - pulling, 1m - sync)
 
