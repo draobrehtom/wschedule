@@ -1,10 +1,10 @@
-#Installation
+# Installation
 
 1. `pip install -r requirements.txt`
 2. `pacman -S geckodriver`
 3. `python app.py youridnumber yourpassword`
 
-#TODO
+# TODO
 
 1) Notifications for mandatory classes
  - List of mandatory subjects
