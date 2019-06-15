@@ -103,7 +103,7 @@ def synchronize(schedule, calendarname = "Schedule from Python Program"):
         'S': '7'
     }
 
-    for row in schedule:
+    for row in schedule.get_body():
         start_date = "%sT%s:00" % (row['date'], row['from'],)
         end_date = "%sT%s:00" % (row['date'], row['to'],)
         

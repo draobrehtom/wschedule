@@ -1,122 +1,124 @@
-description,date,from,to,subject,mandatory,teacher,classroom,type,location,submit
-Guten Tag!,2019-03-08,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-Guten Tag!,2019-03-12,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-03-14,11:20,14:35,Introduction to data exploration methods,0,dr Dominik Szczerba,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-03-15,08:00,11:10,Introduction to data exploration methods,0,dr Dominik Szczerba,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-03-15,11:20,14:35,Manager training,0,mgr Karina KOZIK,339,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-03-21,11:20,14:35,Introduction to data exploration methods,0,dr Dominik Szczerba,231,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-Guten Tag!,2019-03-22,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-03-25,09:00,10:00,Data is new currency now,,dr inż. Marek Pyka,AUD D,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass
-,2019-03-25,10:00,11:00,"NIGERIA: Great Nation, Great People",,mgr Solomon Kunle Omogbemi,AUD D,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass
-,2019-03-25,11:00,12:00,Re-evolution of ideas: Is it true that everything is in a state of flux?,,Władze WSB,AUD D,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass
-,2019-03-25,12:00,13:00,Sharing is carying - is sharing economy good for us?,,dr Tomasz Kasprowicz,AUD D,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass
-,2019-03-25,14:00,15:00,How to be happier at work,,Władze WSB,AUD D,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass
-,2019-03-25,15:00,16:00,Education as a Solution for Healthy Development,,Władze WSB,AUD D,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass
-Guten Tag!,2019-03-26,14:45,17:55,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-03-27,09:40,11:10,Business English,,dr inż. Leszek Ziora,319,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-03-27,11:20,14:35,Methodology of scientific research,1,dr hab. Katarzyna Bilińska-Reformat,324,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-03-28,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,329,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-03-29,14:45,17:55,Problem Solving,1,mgr inż. Aleksander Wyciślik,239,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-03,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,221,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-03,11:20,14:35,Manager training,0,mgr Karina KOZIK,339,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-03,14:45,17:55,Business and international negotiations,1,dr Olgierd Witczak,330,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-04,11:20,14:35,Introduction to data exploration methods,0,dr Dominik Szczerba,Canceled,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-04,14:45,17:55,Role of the leader in the organization,1,prof. nadzw.dr hab. Anna Wziątek-Staśko,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-Guten Tag!,2019-04-05,08:00,11:10,German,1,mgr Katarzyna Wójcik,313,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-05,11:20,14:35,Business and international negotiations,1,dr Olgierd Witczak,331,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-05,14:45,17:55,Problem Solving,1,mgr inż. Aleksander Wyciślik,338,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-Guten Tag!,2019-04-09,11:20,14:35,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-10,09:40,11:10,Business English,,dr inż. Leszek Ziora,313,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-10,11:20,14:35,Business and international negotiations,1,dr Olgierd Witczak,Canceled,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-10,13:05,16:15,Modern Philosophy,1,dr hab. Jacek Surzyn,321,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-11,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-11,11:20,14:35,Role of the leader in the organization,1,prof. nadzw.dr hab. Anna Wziątek-Staśko,222,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-12,13:05,14:35,Business English,,dr inż. Leszek Ziora,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-12,14:45,17:55,Problem Solving,1,mgr inż. Aleksander Wyciślik,331,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-24,09:40,11:10,Business English,,dr inż. Leszek Ziora,324,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-24,11:20,14:35,Methodology of scientific research,1,dr hab. Katarzyna Bilińska-Reformat,324,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-24,14:45,17:55,Modern Philosophy,1,dr hab. Jacek Surzyn,339,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-04-25,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-Guten Tag!,2019-04-26,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-Guten Tag!,2019-05-07,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-08,09:40,11:10,Business English,,dr inż. Leszek Ziora,245,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-08,11:20,14:35,Business and international negotiations,1,dr Olgierd Witczak,244,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-09,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,238,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-09,11:20,14:35,Business and international negotiations,1,dr Olgierd Witczak,324,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-09,14:45,17:55,Problem Solving,1,mgr inż. Aleksander Wyciślik,Canceled,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-Guten Tag!,2019-05-10,08:00,11:10,German,1,mgr Katarzyna Wójcik,245,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-10,11:20,14:35,Business English,,dr inż. Leszek Ziora,305,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-14,09:30,10:30,Corporate performance management: planning for success,,Władze WSB,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass
-,2019-05-15,09:40,11:10,Business English,,dr inż. Leszek Ziora,245,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-15,11:20,14:35,Methodology of scientific research,1,dr hab. Katarzyna Bilińska-Reformat,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-16,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,221,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-17,16:25,19:35,Introduction to data exploration methods,0,mgr inż. Damian Skipioł,"202, 203",L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-Guten Tag!,2019-05-21,14:45,17:55,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-22,09:40,12:50,Business English,,dr inż. Leszek Ziora,240,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-22,13:05,14:35,Seminarium magisterskie,,dr Tomasz Kasprowicz,Canceled,S,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-22,14:45,17:55,Economic models in the modern world,1,WAKAT WAKAT,Canceled,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam
-,2019-05-23,08:00,11:10,Business English,,dr inż. Leszek Ziora,216,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-23,11:20,14:35,Economic models in the modern world,1,WAKAT WAKAT,223,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam
-,2019-05-23,14:45,17:55,Modern Philosophy,1,dr hab. Jacek Surzyn,222,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-Guten Tag!,2019-05-24,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-24,11:20,14:35,Manager training,0,mgr Karina KOZIK,339,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-24,14:45,17:55,Problem Solving,1,mgr inż. Aleksander Wyciślik,330,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-27,08:00,11:10,Innovations management,1,prof. dr hab. Georgij Verych,122,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam
-,2019-05-27,11:20,14:35,Innovations management,1,prof. dr hab. Georgij Verych,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-28,08:00,11:10,Innovations management,1,prof. dr hab. Georgij Verych,123,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam
-,2019-05-28,14:45,17:55,Innovations management,1,prof. dr hab. Georgij Verych,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-29,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,221,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-29,11:20,14:35,Methodology of scientific research,1,dr hab. Katarzyna Bilińska-Reformat,328,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-29,14:45,16:15,Seminarium magisterskie,,dr Tomasz Kasprowicz,Canceled,S,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-29,14:45,17:55,Innovations management,1,prof. dr hab. Georgij Verych,Canceled,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-30,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,221,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-30,11:20,14:35,Economic models in the modern world,1,WAKAT WAKAT,123,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam
-,2019-05-30,14:45,16:15,Economic models in the modern world,1,WAKAT WAKAT,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-31,08:00,11:10,Manager training,0,mgr Karina KOZIK,339,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-31,11:20,14:35,Innovations management,1,prof. dr hab. Georgij Verych,231,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-31,11:20,14:35,Business and international negotiations,1,dr Olgierd Witczak,Canceled,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-05-31,15:30,18:50,Economic models in the modern world,1,WAKAT WAKAT,223,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-04,08:00,11:10,Innovations management,1,prof. dr hab. Georgij Verych,330,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam
-Guten Tag!,2019-06-04,11:20,14:35,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-04,14:45,17:55,Innovations management,1,prof. dr hab. Georgij Verych,330,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-05,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,221,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-05,11:20,14:35,Manager training,0,mgr Karina KOZIK,338,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-05,14:45,17:55,Modern Philosophy,1,dr hab. Jacek Surzyn,229,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-06,08:00,11:10,Business and international negotiations,1,dr Olgierd Witczak,338,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-06,11:20,14:35,Economic models in the modern world,1,WAKAT WAKAT,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-06,14:45,17:55,Methodology of scientific research,1,dr hab. Katarzyna Bilińska-Reformat,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-Guten Tag!,2019-06-07,08:00,11:10,German,1,mgr Katarzyna Wójcik,245,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-07,11:20,13:50,Seminarium magisterskie,,dr Tomasz Kasprowicz,338,S,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-07,13:05,16:15,Problem Solving,1,mgr inż. Aleksander Wyciślik,328,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-07,16:25,19:35,Introduction to data exploration methods,0,mgr inż. Damian Skipioł,414,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-12,08:00,09:30,Modern Philosophy,1,dr hab. Jacek Surzyn,229,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-12,09:40,11:10,Business English,,dr inż. Leszek Ziora,245,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-12,11:20,14:35,Economic models in the modern world,1,WAKAT WAKAT,222,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam
-,2019-06-12,14:45,16:15,Economic models in the modern world,1,WAKAT WAKAT,222,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-13,09:40,11:10,Economic models in the modern world,1,WAKAT WAKAT,339,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam
-,2019-06-13,11:20,14:35,Economic models in the modern world,1,WAKAT WAKAT,222,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-13,14:45,17:55,Role of the leader in the organization,1,prof. nadzw.dr hab. Anna Wziątek-Staśko,239,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-13,18:05,19:35,Seminarium magisterskie,,dr Tomasz Kasprowicz,222,S,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-14,08:00,09:30,Economic models in the modern world,1,WAKAT WAKAT,223,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam
-,2019-06-14,09:40,12:50,Business and international negotiations,1,dr Olgierd Witczak,331,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-14,13:05,16:15,Economic models in the modern world,1,WAKAT WAKAT,223,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-14,16:25,19:35,Introduction to data exploration methods,0,mgr inż. Damian Skipioł,414,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-Guten Tag!,2019-06-18,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-19,09:40,11:10,Business English,,dr inż. Leszek Ziora,232,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-19,13:05,16:15,Economic models in the modern world,1,WAKAT WAKAT,222,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam
-,2019-06-19,16:25,18:50,Seminarium magisterskie,,dr Tomasz Kasprowicz,330,S,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-21,08:00,11:10,Problem Solving,1,mgr inż. Aleksander Wyciślik,230,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-21,11:20,14:35,Economic models in the modern world,1,WAKAT WAKAT,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-21,14:45,17:55,Role of the leader in the organization,1,prof. nadzw.dr hab. Anna Wziątek-Staśko,239,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-24,11:20,14:35,Innovations management,1,prof. dr hab. Georgij Verych,123,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam
-,2019-06-24,14:45,17:55,Innovations management,1,prof. dr hab. Georgij Verych,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-26,08:00,09:30,Modern Philosophy,1,dr hab. Jacek Surzyn,222,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-26,09:40,11:10,Business English,,dr inż. Leszek Ziora,313,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-26,11:20,14:35,Innovations management,1,prof. dr hab. Georgij Verych,Canceled,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam
-,2019-06-26,11:20,14:35,Methodology of scientific research,1,dr hab. Katarzyna Bilińska-Reformat,Canceled,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-26,14:45,17:55,Innovations management,1,prof. dr hab. Georgij Verych,Canceled,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-27,08:00,11:10,Innovations management,1,prof. dr hab. Georgij Verych,123,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam
-,2019-06-27,11:20,14:35,Role of the leader in the organization,1,prof. nadzw.dr hab. Anna Wziątek-Staśko,239,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-27,16:25,19:35,Introduction to data exploration methods,0,mgr inż. Damian Skipioł,414,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-Guten Tag!,2019-06-28,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
-,2019-06-28,11:20,14:35,Innovations management,1,prof. dr hab. Georgij Verych,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade
+description,date,from,to,subject,mandatory,teacher,classroom,type,location,submit,hours
+Guten Tag!,2019-03-08,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+Guten Tag!,2019-03-12,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-03-14,11:20,14:35,Introduction to data exploration methods,0,dr Dominik Szczerba,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-03-15,08:00,11:10,Introduction to data exploration methods,0,dr Dominik Szczerba,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-03-15,11:20,14:35,Manager training,0,mgr Karina KOZIK,339,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-03-21,11:20,14:35,Introduction to data exploration methods,0,dr Dominik Szczerba,231,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+Guten Tag!,2019-03-22,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+Guten Tag!,2019-03-26,14:45,17:55,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-03-27,09:40,11:10,Business English,,dr inż. Leszek Ziora,319,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-03-27,11:20,14:35,Methodology of scientific research,1,dr hab. Katarzyna Bilińska-Reformat,324,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-03-28,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,329,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-03-29,14:45,17:55,Problem Solving,1,mgr inż. Aleksander Wyciślik,239,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-04-03,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,221,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-04-03,11:20,14:35,Manager training,0,mgr Karina KOZIK,339,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-04-03,14:45,17:55,Business and international negotiations,1,dr Olgierd Witczak,330,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-04-04,11:20,14:35,Introduction to data exploration methods,0,dr Dominik Szczerba,Canceled,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-04-04,14:45,17:55,Role of the leader in the organization,1,prof. nadzw.dr hab. Anna Wziątek-Staśko,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+Guten Tag!,2019-04-05,08:00,11:10,German,1,mgr Katarzyna Wójcik,313,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-04-05,11:20,14:35,Business and international negotiations,1,dr Olgierd Witczak,331,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-04-05,14:45,17:55,Problem Solving,1,mgr inż. Aleksander Wyciślik,338,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+Guten Tag!,2019-04-09,11:20,14:35,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-04-10,09:40,11:10,Business English,,dr inż. Leszek Ziora,313,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-04-10,11:20,14:35,Business and international negotiations,1,dr Olgierd Witczak,Canceled,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-04-10,13:05,16:15,Modern Philosophy,1,dr hab. Jacek Surzyn,321,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-04-11,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-04-11,11:20,14:35,Role of the leader in the organization,1,prof. nadzw.dr hab. Anna Wziątek-Staśko,222,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-04-12,13:05,14:35,Business English,,dr inż. Leszek Ziora,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-04-12,14:45,17:55,Problem Solving,1,mgr inż. Aleksander Wyciślik,331,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-04-24,09:40,11:10,Business English,,dr inż. Leszek Ziora,324,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-04-24,11:20,14:35,Methodology of scientific research,1,dr hab. Katarzyna Bilińska-Reformat,324,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-04-24,14:45,17:55,Modern Philosophy,1,dr hab. Jacek Surzyn,339,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-04-25,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+Guten Tag!,2019-04-26,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+Guten Tag!,2019-05-07,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-05-08,09:40,11:10,Business English,,dr inż. Leszek Ziora,245,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-05-08,11:20,14:35,Business and international negotiations,1,dr Olgierd Witczak,244,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-05-09,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,238,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-05-09,11:20,14:35,Business and international negotiations,1,dr Olgierd Witczak,324,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-05-09,14:45,17:55,Problem Solving,1,mgr inż. Aleksander Wyciślik,Canceled,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+Guten Tag!,2019-05-10,08:00,11:10,German,1,mgr Katarzyna Wójcik,245,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-05-10,11:20,14:35,Business English,,dr inż. Leszek Ziora,305,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-05-14,09:30,10:30,Corporate performance management: planning for success,,Władze WSB,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass,1.0
+,2019-05-15,09:40,11:10,Business English,,dr inż. Leszek Ziora,245,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-05-15,11:20,14:35,Methodology of scientific research,1,dr hab. Katarzyna Bilińska-Reformat,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-05-16,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,221,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-05-17,16:25,19:35,Introduction to data exploration methods,0,mgr inż. Damian Skipioł,"202, 203",L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+Guten Tag!,2019-05-21,14:45,17:55,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-05-22,09:40,12:50,Business English,,dr inż. Leszek Ziora,332,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-05-22,13:05,14:35,Introduction to data exploration methods,0,dr inż. Karol Jędrasiak,223,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-05-22,13:05,14:35,Seminarium magisterskie,,dr Tomasz Kasprowicz,Canceled,S,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-05-22,14:45,17:55,Economic models in the modern world,1,dr Sławomir Czech,Canceled,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam,3.17
+,2019-05-23,08:00,11:10,Business English,,dr inż. Leszek Ziora,"202, 203",LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-05-23,11:20,14:35,Economic models in the modern world,1,dr Sławomir Czech,223,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam,3.25
+,2019-05-23,14:45,17:55,Modern Philosophy,1,dr hab. Jacek Surzyn,222,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+Guten Tag!,2019-05-24,08:00,11:10,German,1,mgr Katarzyna Wójcik,309,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-05-24,11:20,14:35,Manager training,0,mgr Karina KOZIK,339,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-05-24,14:45,17:55,Problem Solving,1,mgr inż. Aleksander Wyciślik,330,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-05-27,08:00,11:10,Business economics,,dr Ladislav Klement,123,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam,3.17
+,2019-05-27,11:20,14:35,Business economics,,dr Ladislav Klement,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-05-28,08:00,11:10,Business economics,,dr Ladislav Klement,123,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam,3.17
+,2019-05-28,14:45,17:55,Business economics,,dr Ladislav Klement,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-05-29,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,221,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-05-29,11:20,14:35,Methodology of scientific research,1,dr hab. Katarzyna Bilińska-Reformat,328,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-05-29,14:45,16:15,Seminarium magisterskie,,dr Tomasz Kasprowicz,Canceled,S,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-05-30,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,Canceled,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-05-30,09:40,11:10,Economic models in the modern world,1,dr Sławomir Czech,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-05-30,11:20,14:35,Economic models in the modern world,1,dr Sławomir Czech,123,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam,3.25
+,2019-05-30,14:45,16:15,Economic models in the modern world,1,dr Sławomir Czech,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-05-31,08:00,11:10,Manager training,0,mgr Karina KOZIK,339,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-05-31,11:10,11:20,Spotkanie w sprawie praktyk,,Władze WSB,231,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass,0.17
+,2019-05-31,11:20,14:35,Business economics,,dr Ladislav Klement,231,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-05-31,11:20,14:35,Business and international negotiations,1,dr Olgierd Witczak,Canceled,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-05-31,15:30,18:50,Economic models in the modern world,1,dr Sławomir Czech,223,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.33
+,2019-06-04,08:00,11:10,Business economics,,dr Ladislav Klement,330,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam,3.17
+Guten Tag!,2019-06-04,11:20,14:35,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-06-04,14:45,17:55,Business economics,,dr Ladislav Klement,330,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-05,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,417,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-05,11:20,14:35,Manager training,0,mgr Karina KOZIK,338,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-06-05,14:45,17:55,Modern Philosophy,1,dr hab. Jacek Surzyn,229,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-06,08:00,11:10,Mathematical statistics and language R,1,dr Paweł Gładki,417,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-06,08:00,11:10,Business and international negotiations,1,dr Olgierd Witczak,Canceled,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-06,11:20,12:50,Economic models in the modern world,1,dr Sławomir Czech,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-06-06,13:05,14:35,Economic models in the modern world,1,dr Sławomir Czech,Canceled,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-06-06,14:45,17:55,Methodology of scientific research,1,dr hab. Katarzyna Bilińska-Reformat,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+Guten Tag!,2019-06-07,08:00,11:10,German,1,mgr Katarzyna Wójcik,245,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-07,11:20,12:50,Introduction to data exploration methods,0,dr inż. Karol Jędrasiak,222,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-06-07,13:05,16:15,Problem Solving,1,mgr inż. Aleksander Wyciślik,229,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-07,16:25,19:35,Introduction to data exploration methods,0,mgr inż. Damian Skipioł,414,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-08,15:00,16:30,Manager training,0,mgr Karina KOZIK,340,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-06-10,17:10,18:50,Seminarium magisterskie,,dr Tomasz Kasprowicz,338,S,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.67
+,2019-06-12,08:00,09:30,Modern Philosophy,1,dr hab. Jacek Surzyn,229,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-06-12,09:40,11:10,Business English,,dr inż. Leszek Ziora,313,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-06-12,11:20,14:35,Economic models in the modern world,1,dr Sławomir Czech,221,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam,3.25
+,2019-06-12,14:45,16:15,Economic models in the modern world,1,dr Sławomir Czech,221,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-06-13,09:40,11:10,Economic models in the modern world,1,dr Sławomir Czech,222,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam,1.5
+,2019-06-13,11:20,14:35,Economic models in the modern world,1,dr Sławomir Czech,222,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-06-13,14:45,17:55,Role of the leader in the organization,1,prof. nadzw.dr hab. Anna Wziątek-Staśko,331,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-14,08:00,09:30,Economic models in the modern world,1,dr Sławomir Czech,223,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam,1.5
+,2019-06-14,09:40,12:50,Business and international negotiations,1,dr Olgierd Witczak,324,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-14,13:05,16:15,Economic models in the modern world,1,dr Sławomir Czech,223,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-14,16:25,19:35,Introduction to data exploration methods,0,mgr inż. Damian Skipioł,414,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-17,15:30,17:55,Seminarium magisterskie,,dr Tomasz Kasprowicz,339,S,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,2.42
+Guten Tag!,2019-06-18,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-19,09:40,11:10,Business English,,dr inż. Leszek Ziora,203,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-06-19,11:20,12:50,Economic models in the modern world,1,dr Sławomir Czech,229,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-06-19,13:05,16:15,Economic models in the modern world,1,dr Sławomir Czech,229,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam,3.17
+,2019-06-19,16:25,18:50,Seminarium magisterskie,,dr Tomasz Kasprowicz,338,S,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,2.42
+,2019-06-21,08:00,11:10,Problem Solving,1,mgr inż. Aleksander Wyciślik,230,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-21,11:20,14:35,Economic models in the modern world,1,dr Sławomir Czech,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-06-21,14:45,17:55,Role of the leader in the organization,1,prof. nadzw.dr hab. Anna Wziątek-Staśko,330,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-24,11:20,14:35,Business economics,,dr Ladislav Klement,123,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam,3.25
+,2019-06-24,14:45,17:55,Business economics,,dr Ladislav Klement,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-26,08:00,09:30,Modern Philosophy,1,dr hab. Jacek Surzyn,222,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-06-26,09:40,11:10,Business English,,dr inż. Leszek Ziora,313,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5
+,2019-06-26,11:20,14:35,Business and international negotiations,1,dr Olgierd Witczak,324,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-06-26,11:20,14:35,Methodology of scientific research,1,dr hab. Katarzyna Bilińska-Reformat,Canceled,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-06-27,08:00,11:10,Business economics,,dr Ladislav Klement,123,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Exam,3.17
+,2019-06-27,11:20,14:35,Role of the leader in the organization,1,prof. nadzw.dr hab. Anna Wziątek-Staśko,239,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-06-27,16:25,19:35,Introduction to data exploration methods,0,mgr inż. Damian Skipioł,414,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+Guten Tag!,2019-06-28,08:00,11:10,German,1,mgr Katarzyna Wójcik,315,LE,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-06-28,11:20,14:35,Business economics,,dr Ladislav Klement,123,E,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.25
+,2019-06-28,14:45,17:55,Seminarium magisterskie,,dr Tomasz Kasprowicz,330,S,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,3.17
+,2019-07-01,10:30,12:00,Role of the leader in the organization,1,prof. nadzw.dr hab. Anna Wziątek-Staśko,228,L,"ul. Cieplaka 1c, 41-300 Dąbrowa Górnicza",Pass with grade,1.5

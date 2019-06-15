@@ -50,6 +50,20 @@ else:
         writer = csv.DictWriter(schedule_file, fieldnames=schedule.get_header())
         writer.writeheader()
         for row in schedule.get_body():
+
+            # Filtration
+            if row['classroom'] == 'AUD D':
+                continue
+
+
+            date_from = row['date'] + ' ' + row['from']
+            date_to = row['date'] + ' ' + row['to']
+
+            import datetime
+            time1 = datetime.datetime.strptime(row['to'], "%H:%M")
+            time2 = datetime.datetime.strptime(row['from'], "%H:%M")
+            diff = time1 -time2
+            row['hours'] = round(diff.total_seconds() / 3600, 2)
             writer.writerow(row)
 
 print('Done')

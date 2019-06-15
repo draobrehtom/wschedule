@@ -7,7 +7,7 @@ class Schedule:
         'description','date',
         'from','to',
         'subject','mandatory','teacher','classroom','type','location',
-        'submit'
+        'submit', 'hours'
     ]
     body = []
 
@@ -29,6 +29,7 @@ class Schedule:
 
 
 def get_schedule(student_id, password, subject_descriptions):
+    # TODO: add selecting driver
     options = webdriver.FirefoxOptions()
     # options.set_headless()
     browser = webdriver.Firefox(options=options)
