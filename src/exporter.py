@@ -1,6 +1,5 @@
 from selenium import webdriver
-from time import sleep
-import datetime
+import platform
 
 class Schedule:
     header = [
@@ -32,7 +31,13 @@ def get_schedule(student_id, password, subject_descriptions):
     # TODO: add selecting driver
     options = webdriver.FirefoxOptions()
     # options.set_headless()
-    browser = webdriver.Firefox(options=options, executable_path=r'C:\Program Files\Geckodriver\geckodriver.exe')
+    if platform.system() == 'Windows':
+        browser = webdriver.Firefox(options=options, executable_path=r'geckodriver_windows.exe')
+    elif platform.system() == 'Darwin':
+        browser = webdriver.Firefox(options=options, executable_path=r'geckodriver_macos')
+    else:
+        browser = webdriver.Firefox(options=options, executable_path=r'geckodriver_linux')
+
     browser.set_window_size(1120, 550)
     browser.get('https://wu.wsb.edu.pl')
 
