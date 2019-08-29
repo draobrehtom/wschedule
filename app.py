@@ -46,7 +46,7 @@ if args.gcalendar:
     gcalendar.synchronize(schedule, calendarname)
 else:
     print('Exporing your schedule into csv file ... ')
-    with open('schedule.csv', 'w') as schedule_file:
+    with open('schedule.csv', 'w', encoding='utf-8') as schedule_file:
         writer = csv.DictWriter(schedule_file, fieldnames=schedule.get_header())
         writer.writeheader()
         for row in schedule.get_body():
