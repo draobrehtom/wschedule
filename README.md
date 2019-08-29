@@ -1,8 +1,18 @@
 # Installation
 
-1. `pip install -r requirements.txt` and install `Firefox Browser` if you don't have it
-2. Execute `python app.py 26477 fortheproject`
-3. Wait for results and find out schedule in `schedule.csv` 
+**You shoul'd have Firefox Browser installed!**
+
+# Windows
+`pip install -r requirements.txt`
+
+# Linux
+`pip install -r requirements.txt && chmod 755 geckodriver_linux`
+
+# MacOS
+`pip install -r requirements.txt && chmod 755 geckodriver_macos`
+
+**Execute `python app.py 26477 fortheproject`**
+
 
 # TODO
 1) Notifications for mandatory classes
