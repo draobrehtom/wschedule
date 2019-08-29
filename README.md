@@ -11,6 +11,7 @@
 # MacOS
 `pip install -r requirements.txt && chmod 755 geckodriver_macos`
 
+# Pulling schedule
 **Execute `python app.py 26477 fortheproject`**
 
 
