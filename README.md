@@ -2,13 +2,13 @@
 
 **You shoul'd have Firefox Browser installed!**
 
-# Windows
+## Windows
 `pip install -r requirements.txt`
 
-# Linux
+## Linux
 `pip install -r requirements.txt && chmod 755 geckodriver_linux`
 
-# MacOS
+## MacOS
 `pip install -r requirements.txt && chmod 755 geckodriver_macos`
 
 # Pulling schedule
