@@ -2,6 +2,9 @@
 
 **You should have Mozilla Firefox installed!**
 
+[Presentation link](https://docs.google.com/presentation/d/1KmflMv4MoMv347rogEWM6tKwSy8gkSOlEDnevw8okhc/edit#slide=id.g60ff400cd6_0_209)
+- thank's to @veronicaverlan
+
 ## Windows
 `pip install -r requirements.txt`
 
