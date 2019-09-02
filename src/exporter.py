@@ -36,7 +36,7 @@ def get_schedule(student_id, password, subject_descriptions):
     elif platform.system() == 'Darwin':
         browser = webdriver.Firefox(options=options, executable_path=r'./geckodriver_macos')
     else:
-        browser = webdriver.Firefox(options=options, executable_path=r'geckodriver_linux')
+        browser = webdriver.Firefox(options=options, executable_path=r'./geckodriver_linux')
 
     browser.set_window_size(1120, 550)
     browser.get('https://wu.wsb.edu.pl')
