@@ -34,7 +34,7 @@ def get_schedule(student_id, password, subject_descriptions):
     if platform.system() == 'Windows':
         browser = webdriver.Firefox(options=options, executable_path=r'geckodriver_windows.exe')
     elif platform.system() == 'Darwin':
-        browser = webdriver.Firefox(options=options, executable_path=r'geckodriver_macos')
+        browser = webdriver.Firefox(options=options, executable_path=r'./geckodriver_macos')
     else:
         browser = webdriver.Firefox(options=options, executable_path=r'geckodriver_linux')
 
