@@ -1,6 +1,6 @@
 # Installation
 
-**You should have Firefox Browser installed!**
+**You should have Mozilla Firefox installed!**
 
 ## Windows
 `pip install -r requirements.txt`
