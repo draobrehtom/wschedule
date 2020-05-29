@@ -113,9 +113,13 @@ def get_schedule(student_id, password, subject_descriptions):
             elif j == 6:
                 row_data['teacher'] = data
             elif j == 7:
-                data = data.split('DG ')
-                row_data['classroom'] = data[0] + data[1]
-                row_data['classroom'] = reasons.get(row_data['classroom'], row_data['classroom'])
+                tmp = data
+                try:
+                    data = data.split('DG ')
+                    row_data['classroom'] = data[0] + data[1]
+                    row_data['classroom'] = reasons.get(row_data['classroom'], row_data['classroom'])
+                except:
+                    row_data['classroom'] = tmp
             elif j == 8:
                 if data == "J":
                     data = "LE"
